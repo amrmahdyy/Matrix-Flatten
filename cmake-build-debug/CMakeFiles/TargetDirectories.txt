@@ -1,0 +1,3 @@
+/Users/test/Desktop/Web development projects/Master Micro assignment/Matrix-Flatten/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/test/Desktop/Web development projects/Master Micro assignment/Matrix-Flatten/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/test/Desktop/Web development projects/Master Micro assignment/Matrix-Flatten/cmake-build-debug/CMakeFiles/Matrix_Flatten.dir

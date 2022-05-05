@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/test/Desktop/Web development projects/Master Micro assignment/Matrix-Flatten"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/test/Desktop/Web development projects/Master Micro assignment/Matrix-Flatten/cmake-build-debug
